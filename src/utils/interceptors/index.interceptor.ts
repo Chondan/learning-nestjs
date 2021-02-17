@@ -1,0 +1,1 @@
+export { default as TimeoutInterceptor } from './timeout.interceptor';
